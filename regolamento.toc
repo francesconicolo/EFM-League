@@ -1,0 +1,7 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduzione}{2}{}%
+\contentsline {section}{\numberline {1.1}Panoramica}{2}{}%
+\contentsline {paragraph}{"Easy For Me" League}{2}{}%
+\contentsline {chapter}{\numberline {2}Regolamento}{3}{}%
+\contentsline {paragraph}{}{3}{}%
