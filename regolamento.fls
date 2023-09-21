@@ -1,6 +1,6 @@
-PWD c:\Users\nicol\Desktop\Nuova cartella
+PWD c:\Users\nicol\Desktop\EFM League
 INPUT C:\Users\nicol\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\nicol\Desktop\Nuova cartella\regolamento.tex
+INPUT c:\Users\nicol\Desktop\EFM League\regolamento.tex
 OUTPUT regolamento.log
 INPUT C:\Users\nicol\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\nicol\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
@@ -611,6 +611,10 @@ INPUT Logocentrato.png
 INPUT .\Logocentrato.png
 INPUT C:\Users\nicol\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\nicol\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\Logocentrato.png
+INPUT .\Logocentrato.png
+INPUT Logocentrato.png
+INPUT .\Logocentrato.png
 INPUT .\Logocentrato.png
 INPUT .\Logocentrato.png
 INPUT Logocentrato.png

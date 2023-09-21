@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1694474617 "c:/Users/nicol/Desktop/Nuova cartella/regolamento.tex" "regolamento.pdf" "regolamento" 1694474619 0
+["pdflatex"] 1695290415 "c:/Users/nicol/Desktop/EFM League/regolamento.tex" "regolamento.pdf" "regolamento" 1695290416 0
   "C:/Users/nicol/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1694425351 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/nicol/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1674730869 23172981 853bf387fcc0c087f51d5cdedd432c70 ""
   "C:/Users/nicol/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
@@ -128,10 +128,10 @@
   "C:/Users/nicol/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/nicol/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "Logocentrato.png" 1694383004 145424 2f833c14ceaabe7fdc48b5e6bd3b5252 ""
-  "c:/Users/nicol/Desktop/Nuova cartella/regolamento.tex" 1694474617 4010 29b08b0d27d5de0ea79527435f6e1946 ""
-  "regolamento.aux" 1694474619 970 88512eeb13990edcd5833db2aa76b2bc "pdflatex"
-  "regolamento.tex" 1694474617 4010 29b08b0d27d5de0ea79527435f6e1946 ""
-  "regolamento.toc" 1694474619 324 c31680c82d80628fc21815bd57e0fc57 "pdflatex"
+  "c:/Users/nicol/Desktop/EFM League/regolamento.tex" 1695290413 4628 9da693b89f69f74b211ed50c518c7273 ""
+  "regolamento.aux" 1695290416 1013 62a23570df645592c26e9a13424fa560 "pdflatex"
+  "regolamento.tex" 1695290413 4628 9da693b89f69f74b211ed50c518c7273 ""
+  "regolamento.toc" 1695290416 324 c31680c82d80628fc21815bd57e0fc57 "pdflatex"
   (generated)
   "regolamento.aux"
   "regolamento.log"
